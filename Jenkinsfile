@@ -7,7 +7,7 @@ node {
       }
 		post {
 			success {
-		      		echo 'workspace setup complete with codebase repositories.''
+		      		echo 'workspace setup complete with codebase repositories.'
 			}
 		}
 	}
